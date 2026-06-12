@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "RedZvanilla.aternos.me",
+    "port": 60566,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
